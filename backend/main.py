@@ -6,7 +6,7 @@ import json
 from iointel import Agent, Workflow
 
 # API Anahtarı
-os.environ["OPENAI_API_KEY"] = "io-v2-eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJvd25lciI6IjhmOThhZTMyLWJjNjEtNDU1ZC04OGExLTQzOTk0MzQ0ZGU4NiIsImV4cCI6NDg5Nzk2ODIyMH0.O5MSTKBdgBWm4t-_1lD6zQu20du86bsukX69iOClUnHiCRWw4frO_q8UtgReXGV9jplodowUt3UjniiAW7Ddqw"
+os.environ["OPENAI_API_KEY"] = "YOUR-API-KEY"
 
 app = FastAPI()
 
